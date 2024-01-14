@@ -1,3 +1,5 @@
+// This was a fun project!
+
 import { useEffect, useState } from 'react';
 import './App.css';
 
